@@ -7,4 +7,4 @@ Social media platforms are increasingly used to convey advertising campaigns for
 
 # How to cite
 
-R. Cantini, F. Marozzo, S. Mazza, D. Talia, P. Trunfio, "A Weighted Artificial Bee Colony Algorithm for Influence Maximization". Online Social Networks and Media, 2021.
+*R. Cantini, F. Marozzo, S. Mazza, D. Talia, P. Trunfio, "A Weighted Artificial Bee Colony Algorithm for Influence Maximization". Online Social Networks and Media, 2021.*
